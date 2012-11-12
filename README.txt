@@ -1,0 +1,2 @@
+A apresentação do trabalho está em PDF e em ODT para caso necessite efetuar alguma alteração nos fontes.
+-Já o projeto com a implementação da interface e os métodos de ordenação estão no diretório TrabalhoOrdenação e pode ser facilmente copiado e configurado em sua instalação do NetBeans para realizar alterações ou testes conforme a necessidade.
